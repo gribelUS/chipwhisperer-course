@@ -59,7 +59,7 @@ Install before starting:
 # Clone Repository
 
 ```
-git clone https://github.com/gribelUS/chipwhisperer-course.git
+git clone --recurse-submodules -j8 https://github.com/gribelUS/chipwhisperer-course.git
 cd chipwhisperer-course
 ```
 

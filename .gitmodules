@@ -1,0 +1,3 @@
+[submodule "chipwhisperer"]
+	path = upstream/chipwhisperer
+	url = https://github.com/newaetech/chipwhisperer
